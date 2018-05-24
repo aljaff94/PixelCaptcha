@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCaptcha", "PixelCaptcha\PixelCaptcha.csproj", "{97943827-6669-48F4-8247-C496D68F5B88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCaptcha.Test", "PixelCaptcha.Test\PixelCaptcha.Test.csproj", "{9D9419BF-6194-4BDD-8903-D949C82E1A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCaptcha.SimpleWebsite", "PixelCaptcha.SimpleWebsite\PixelCaptcha.SimpleWebsite.csproj", "{4EFB3A63-3154-4DE8-AD82-43B509AC2248}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{97943827-6669-48F4-8247-C496D68F5B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97943827-6669-48F4-8247-C496D68F5B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97943827-6669-48F4-8247-C496D68F5B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D9419BF-6194-4BDD-8903-D949C82E1A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D9419BF-6194-4BDD-8903-D949C82E1A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D9419BF-6194-4BDD-8903-D949C82E1A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D9419BF-6194-4BDD-8903-D949C82E1A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EFB3A63-3154-4DE8-AD82-43B509AC2248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFB3A63-3154-4DE8-AD82-43B509AC2248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFB3A63-3154-4DE8-AD82-43B509AC2248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFB3A63-3154-4DE8-AD82-43B509AC2248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
